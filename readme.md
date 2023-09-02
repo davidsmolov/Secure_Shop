@@ -85,7 +85,12 @@ To understand how to use Secure Shop API and explore its endpoints, you can use 
 
 The base URL in the Postman collection is currently set to my own running API for reference. You can use the provided user credentials for testing:
 
+Simple user:
 - Email: test@test.com
+- Password: Pentest1!
+
+Seller user:
+- Email: test2@test.com
 - Password: Pentest1!
 
 Once you have explored the collection and read the documentation within it, feel free to change the base URL to `http://localhost:8000/` and run the API locally with any changes you have added.
